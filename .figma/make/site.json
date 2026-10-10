@@ -1,0 +1,10 @@
+{
+  "description": "Explore cutting-edge security and intelligence solutions with a sleek, user-friendly interface designed for deep-tech professionals in Africa.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
